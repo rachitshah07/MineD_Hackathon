@@ -1,16 +1,16 @@
 # MineD_Hackathon
 
 ## FACE RECOGNITION
-In this project, team task is to identify the human face real time from a CCTV camera with the help of computer Vision. If CCTV camera frame (image from the Video) contains multiple faces, then developed model must have capability to recognize all the faces in frame.
-After recognition of faces developed, Software will return the face identity (For Example Employee Code) and Date and time of recognition in a csv file (You can also insert the record into MySQL database).
+In this project, our team's task is to identify the human face in real time from a CCTV camera with the help of computer Vision. If CCTV camera frame (image from the Video) contains multiple faces, then developed model must have capability to recognize all the faces in frame.
+After recognition of faces developed, Software will return the face identity (For Example Employee Code) and Date and time of recognition in a csv file.
 
 ## Tech Stack
-***IDE:*** Visual Studio \
+***IDE:***  Microsoft Visual Studio \
 ***Language:***  Python \
 **Modules:** face_recognition, cv2 
 ## Features
 * Multiple face recognition
-* Real time attendance in csv file
+* Real time attendance in csv file for the known faces given in dataset
 * "Unknown" title for faces not in dataset
 
 ## Setup 
