@@ -1,7 +1,7 @@
 # MineD_Hackathon
 
 ## FACE RECOGNITION
-In this project, our team's task is to identify the human face in real time from a CCTV camera with the help of computer Vision. If CCTV camera frame (image from the Video) contains multiple faces, then developed model must have capability to recognize all the faces in frame.
+In this project, our team of four people had a task to identify the human face in real time from a CCTV camera with the help of computer Vision. If CCTV camera frame (image from the Video) contains multiple faces, then developed model must have capability to recognize all the faces in frame.
 After recognition of faces developed, Software will return the face identity (For Example Employee Code) and Date and time of recognition in a csv file.
 
 ## Tech Stack
